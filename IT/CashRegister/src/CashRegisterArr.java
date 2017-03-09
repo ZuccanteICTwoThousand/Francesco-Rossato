@@ -31,9 +31,8 @@ public class CashRegisterArr {
      * @param amount The cost of an item
      * @param howMany How many items of that kind the customer bought
      */
-    public void purchase(double amount, int howMany){
-        for(int i=0; i<howMany; i++)
-            shopper.add(amount);
+    public void purchase(double amount, double howMany){
+            shopper.add(amount*howMany);
     }
 
     /**
@@ -66,8 +65,8 @@ public class CashRegisterArr {
      * Get the items bought by the customer
      * @return An array with all the items bought
      */
-    public Object[] getLog(){
-        return shopper.toArray();
+    public ArrayList getLog(){
+        return shopper;
     }
 
     private double sum(){
