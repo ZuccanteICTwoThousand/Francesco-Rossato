@@ -1,3 +1,5 @@
+import jdk.management.resource.internal.inst.NetRMHooks;
+
 import javax.swing.*;
 
 /**
@@ -9,7 +11,10 @@ public class StringGUI {
         String surname = JOptionPane.showInputDialog("Inserire cognome");
         String domainMail = JOptionPane.showInputDialog("Inserire dominio mail");
         String domainSite = JOptionPane.showInputDialog("Inserire dominio sito");
-        JOptionPane.showMessageDialog;
+        JOptionPane.showMessageDialog(null, NetString.email(name, surname, domainMail));
+        JOptionPane.showMessageDialog(null, NetString.homepage(surname, domainSite));
+        JOptionPane.showMessageDialog(null, NetString.password(name, surname));
+        JOptionPane.showMessageDialog(null, NetString.userID(name, surname));
     }
 
 }
