@@ -16,16 +16,25 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CD.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CD.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+            <state relative-caret-position="306">
+              <caret line="50" column="29" lean-forward="true" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
               <folding>
-                <element signature="e#634#635#0" expanded="true" />
-                <element signature="e#682#683#0" expanded="true" />
-                <element signature="e#971#972#0" expanded="true" />
-                <element signature="e#1004#1005#0" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="docComment;class#CD#0" expanded="false" />
+                <element signature="docComment;method#CD#0;class#CD#0" expanded="false" />
+                <element signature="method#CD#0;class#CD#0" expanded="false" />
+                <element signature="docComment;method#CD#1;class#CD#0" expanded="false" />
+                <element signature="docComment;method#makeCD#0;class#CD#0" expanded="false" />
+                <element signature="method#makeCD#0;class#CD#0" expanded="false" />
+                <element signature="docComment;method#printCD#0;class#CD#0" expanded="false" />
+                <element signature="docComment;method#setOwner#0;class#CD#0" expanded="false" />
+                <element signature="docComment;method#getAuthor#0;class#CD#0" expanded="false" />
+                <element signature="docComment;method#getTitle#0;class#CD#0" expanded="false" />
+                <element signature="docComment;method#getCompany#0;class#CD#0" expanded="false" />
+                <element signature="docComment;method#getOwner#0;class#CD#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -41,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CDCollection.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CDCollection.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CDCollection.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
@@ -69,9 +78,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Example.java" />
-        <option value="$PROJECT_DIR$/src/CD.java" />
         <option value="$PROJECT_DIR$/src/CDClollection.java" />
         <option value="$PROJECT_DIR$/src/CDCollection.java" />
+        <option value="$PROJECT_DIR$/src/CD.java" />
       </list>
     </option>
   </component>
@@ -428,10 +437,19 @@
         <state relative-caret-position="476">
           <caret line="28" column="26" lean-forward="false" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
           <folding>
-            <element signature="e#634#635#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#971#972#0" expanded="true" />
-            <element signature="e#1004#1005#0" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="docComment;class#CD#0" expanded="false" />
+            <element signature="docComment;method#CD#0;class#CD#0" expanded="false" />
+            <element signature="method#CD#0;class#CD#0" expanded="false" />
+            <element signature="docComment;method#CD#1;class#CD#0" expanded="false" />
+            <element signature="docComment;method#makeCD#0;class#CD#0" expanded="false" />
+            <element signature="method#makeCD#0;class#CD#0" expanded="false" />
+            <element signature="docComment;method#printCD#0;class#CD#0" expanded="false" />
+            <element signature="docComment;method#setOwner#0;class#CD#0" expanded="false" />
+            <element signature="docComment;method#getAuthor#0;class#CD#0" expanded="false" />
+            <element signature="docComment;method#getTitle#0;class#CD#0" expanded="false" />
+            <element signature="docComment;method#getCompany#0;class#CD#0" expanded="false" />
+            <element signature="docComment;method#getOwner#0;class#CD#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -440,6 +458,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CDCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -454,22 +480,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        <state relative-caret-position="306">
+          <caret line="50" column="29" lean-forward="true" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
           <folding>
-            <element signature="e#634#635#0" expanded="true" />
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#971#972#0" expanded="true" />
-            <element signature="e#1004#1005#0" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="docComment;class#CD#0" expanded="false" />
+            <element signature="docComment;method#CD#0;class#CD#0" expanded="false" />
+            <element signature="method#CD#0;class#CD#0" expanded="false" />
+            <element signature="docComment;method#CD#1;class#CD#0" expanded="false" />
+            <element signature="docComment;method#makeCD#0;class#CD#0" expanded="false" />
+            <element signature="method#makeCD#0;class#CD#0" expanded="false" />
+            <element signature="docComment;method#printCD#0;class#CD#0" expanded="false" />
+            <element signature="docComment;method#setOwner#0;class#CD#0" expanded="false" />
+            <element signature="docComment;method#getAuthor#0;class#CD#0" expanded="false" />
+            <element signature="docComment;method#getTitle#0;class#CD#0" expanded="false" />
+            <element signature="docComment;method#getCompany#0;class#CD#0" expanded="false" />
+            <element signature="docComment;method#getOwner#0;class#CD#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CDCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
