@@ -4,6 +4,13 @@
 public class CD {
     private String author, title, company, owner;
 
+    /**
+     * Creates a new CD instance and sets the author, the title, the company and the owner
+     * @param author The CD's author or composer
+     * @param title The CD's title
+     * @param company The CD's company
+     * @param owner The CD's owner
+     */
     public CD(String author, String title, String company, String owner){
         this.author= author;
         this.title= title;
