@@ -46,11 +46,10 @@ public class CD {
 
     /**
      * Prints the CD information
-     * @return A String array with 3 elements: author, title amd company
+     * @return A String with author, title amd company
      */
-    public String[] printCD(){
-        String[] out= {author, title, company};
-        return out;
+    public String printCD(){
+        return author+" "+title+" "+company;
     }
 
     /**

@@ -21,7 +21,7 @@ public class CDCollection {
         CD added = new CD(author, title, company);
         for (int i = 0; i < collection.length; i++)
             newEntry[i] = collection[i];
-        newEntry[newEntry.length - 1] = added;
+        newEntry[newEntry.length-1] = added;
     }
 
     /**
@@ -40,6 +40,12 @@ public class CDCollection {
         }
     }
 
+    public String[] printCollection(){
+        String[] out= new String[collection.length];
+        for(int i = 0; i < collection.length; i++)
+            out[i]+=i+" "+collection[i].printCD();
+        return out;
+    }
     /**
      * Searches for a given author name on the collection
      * @param author The author's name to search for
