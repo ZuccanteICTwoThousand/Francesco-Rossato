@@ -15,7 +15,65 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="CollectionManager.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CollectionManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-85">
+              <caret line="37" column="46" lean-forward="true" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CDCollection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CDCollection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+              <folding>
+                <element signature="docComment;class#CDCollection#0" expanded="false" />
+                <element signature="docComment;method#addCD#0;class#CDCollection#0" expanded="false" />
+                <element signature="method#addCD#0;class#CDCollection#0" expanded="false" />
+                <element signature="docComment;method#removeCD#0;class#CDCollection#0" expanded="false" />
+                <element signature="method#removeCD#0;class#CDCollection#0" expanded="false" />
+                <element signature="method#printCollection#0;class#CDCollection#0" expanded="false" />
+                <element signature="docComment;method#authorSearch#0;class#CDCollection#0" expanded="false" />
+                <element signature="method#authorSearch#0;class#CDCollection#0" expanded="false" />
+                <element signature="docComment;method#titleSearch#0;class#CDCollection#0" expanded="false" />
+                <element signature="method#titleSearch#0;class#CDCollection#0" expanded="false" />
+                <element signature="docComment;method#companySearch#0;class#CDCollection#0" expanded="false" />
+                <element signature="method#companySearch#0;class#CDCollection#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CD.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CD.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="51" column="37" lean-forward="false" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="docComment;class#CD#0" expanded="false" />
+                <element signature="docComment;method#CD#0;class#CD#0" expanded="false" />
+                <element signature="method#CD#0;class#CD#0" expanded="false" />
+                <element signature="docComment;method#CD#1;class#CD#0" expanded="false" />
+                <element signature="docComment;method#makeCD#0;class#CD#0" expanded="false" />
+                <element signature="method#makeCD#0;class#CD#0" expanded="false" />
+                <element signature="docComment;method#printCD#0;class#CD#0" expanded="false" />
+                <element signature="docComment;method#setOwner#0;class#CD#0" expanded="false" />
+                <element signature="docComment;method#getAuthor#0;class#CD#0" expanded="false" />
+                <element signature="docComment;method#getTitle#0;class#CD#0" expanded="false" />
+                <element signature="docComment;method#getCompany#0;class#CD#0" expanded="false" />
+                <element signature="docComment;method#getOwner#0;class#CD#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,16 +93,15 @@
         <option value="$PROJECT_DIR$/src/Example.java" />
         <option value="$PROJECT_DIR$/src/CDClollection.java" />
         <option value="$PROJECT_DIR$/src/CD.java" />
-        <option value="$PROJECT_DIR$/src/CollectionManager.java" />
         <option value="$PROJECT_DIR$/src/CDCollection.java" />
+        <option value="$PROJECT_DIR$/src/CollectionManager.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="2576" />
-    <option name="height" value="1056" />
+    <option name="x" value="-7" />
+    <option name="width" value="1739" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -61,8 +118,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -91,7 +149,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -361,7 +418,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <frame x="-7" y="0" width="1739" height="1047" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -371,15 +428,15 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39957717" sideWeight="0.5015625" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33191034" sideWeight="0.5147998" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875264" sideWeight="0.4953125" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.76840985" sideWeight="0.48520023" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37144515" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -390,6 +447,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="92" y="92" width="2376" height="856" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -399,7 +457,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="9" />
+      <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -422,7 +480,7 @@
             <element signature="method#makeCD#0;class#CD#0" expanded="false" />
             <element signature="docComment;method#printCD#0;class#CD#0" expanded="false" />
             <element signature="e#1492#1493#0" expanded="true" />
-            <element signature="e#1543#1544#0" expanded="true" />
+            <element signature="e#1547#1548#0" expanded="true" />
             <element signature="docComment;method#setOwner#0;class#CD#0" expanded="false" />
             <element signature="docComment;method#getAuthor#0;class#CD#0" expanded="false" />
             <element signature="docComment;method#getTitle#0;class#CD#0" expanded="false" />
@@ -473,7 +531,7 @@
             <element signature="method#makeCD#0;class#CD#0" expanded="false" />
             <element signature="docComment;method#printCD#0;class#CD#0" expanded="false" />
             <element signature="e#1492#1493#0" expanded="true" />
-            <element signature="e#1543#1544#0" expanded="true" />
+            <element signature="e#1547#1548#0" expanded="true" />
             <element signature="docComment;method#setOwner#0;class#CD#0" expanded="false" />
             <element signature="docComment;method#getAuthor#0;class#CD#0" expanded="false" />
             <element signature="docComment;method#getTitle#0;class#CD#0" expanded="false" />
@@ -524,7 +582,7 @@
             <element signature="method#makeCD#0;class#CD#0" expanded="false" />
             <element signature="docComment;method#printCD#0;class#CD#0" expanded="false" />
             <element signature="e#1492#1493#0" expanded="true" />
-            <element signature="e#1543#1544#0" expanded="true" />
+            <element signature="e#1547#1548#0" expanded="true" />
             <element signature="docComment;method#setOwner#0;class#CD#0" expanded="false" />
             <element signature="docComment;method#getAuthor#0;class#CD#0" expanded="false" />
             <element signature="docComment;method#getTitle#0;class#CD#0" expanded="false" />
@@ -550,15 +608,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/CD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="51" column="37" lean-forward="false" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="docComment;class#CD#0" expanded="false" />
+            <element signature="docComment;method#CD#0;class#CD#0" expanded="false" />
+            <element signature="method#CD#0;class#CD#0" expanded="false" />
+            <element signature="docComment;method#CD#1;class#CD#0" expanded="false" />
+            <element signature="docComment;method#makeCD#0;class#CD#0" expanded="false" />
+            <element signature="method#makeCD#0;class#CD#0" expanded="false" />
+            <element signature="docComment;method#printCD#0;class#CD#0" expanded="false" />
+            <element signature="docComment;method#setOwner#0;class#CD#0" expanded="false" />
+            <element signature="docComment;method#getAuthor#0;class#CD#0" expanded="false" />
+            <element signature="docComment;method#getTitle#0;class#CD#0" expanded="false" />
+            <element signature="docComment;method#getCompany#0;class#CD#0" expanded="false" />
+            <element signature="docComment;method#getOwner#0;class#CD#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/CDCollection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="23" column="34" lean-forward="false" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        <state relative-caret-position="255">
+          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
           <folding>
             <element signature="docComment;class#CDCollection#0" expanded="false" />
             <element signature="docComment;method#addCD#0;class#CDCollection#0" expanded="false" />
+            <element signature="method#addCD#0;class#CDCollection#0" expanded="false" />
             <element signature="docComment;method#removeCD#0;class#CDCollection#0" expanded="false" />
             <element signature="method#removeCD#0;class#CDCollection#0" expanded="false" />
+            <element signature="method#printCollection#0;class#CDCollection#0" expanded="false" />
             <element signature="docComment;method#authorSearch#0;class#CDCollection#0" expanded="false" />
             <element signature="method#authorSearch#0;class#CDCollection#0" expanded="false" />
             <element signature="docComment;method#titleSearch#0;class#CDCollection#0" expanded="false" />
@@ -571,33 +653,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CollectionManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        <state relative-caret-position="-85">
+          <caret line="37" column="46" lean-forward="true" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="50" column="18" lean-forward="false" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="docComment;class#CD#0" expanded="false" />
-            <element signature="docComment;method#CD#0;class#CD#0" expanded="false" />
-            <element signature="method#CD#0;class#CD#0" expanded="false" />
-            <element signature="docComment;method#CD#1;class#CD#0" expanded="false" />
-            <element signature="docComment;method#makeCD#0;class#CD#0" expanded="false" />
-            <element signature="method#makeCD#0;class#CD#0" expanded="false" />
-            <element signature="docComment;method#printCD#0;class#CD#0" expanded="false" />
-            <element signature="e#1492#1493#0" expanded="true" />
-            <element signature="e#1543#1544#0" expanded="true" />
-            <element signature="docComment;method#setOwner#0;class#CD#0" expanded="false" />
-            <element signature="docComment;method#getAuthor#0;class#CD#0" expanded="false" />
-            <element signature="docComment;method#getTitle#0;class#CD#0" expanded="false" />
-            <element signature="docComment;method#getCompany#0;class#CD#0" expanded="false" />
-            <element signature="docComment;method#getOwner#0;class#CD#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>

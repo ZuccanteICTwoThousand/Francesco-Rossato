@@ -22,6 +22,7 @@ public class CDCollection {
         for (int i = 0; i < collection.length; i++)
             newEntry[i] = collection[i];
         newEntry[newEntry.length-1] = added;
+        collection= newEntry;
     }
 
     /**
@@ -37,13 +38,17 @@ public class CDCollection {
                     removed[j] = collection[i];
                     j++;
                 }
+            collection= removed;
         }
+
     }
 
     public String[] printCollection(){
         String[] out= new String[collection.length];
-        for(int i = 0; i < collection.length; i++)
-            out[i]+=i+" "+collection[i].printCD();
+        for(int i = 0; i < collection.length; i++) {
+            out[i] = "";
+            out[i] += i + " | " + collection[i].printCD();
+        }
         return out;
     }
     /**

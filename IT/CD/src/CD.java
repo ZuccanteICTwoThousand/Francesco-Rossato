@@ -49,7 +49,7 @@ public class CD {
      * @return A String with author, title amd company
      */
     public String printCD(){
-        return author+" "+title+" "+company;
+        return author+" | "+title+" | "+company;
     }
 
     /**
