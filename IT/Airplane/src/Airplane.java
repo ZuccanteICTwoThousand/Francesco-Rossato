@@ -65,7 +65,7 @@ public class Airplane {
      * @return a String representation of the airplane with model, ID code and airline
      */
     public String toString(){
-        return model+" "+ID+" "+airline;
+        return model+" | "+ID+" | "+airline;
     }
 
 }
