@@ -66,6 +66,6 @@ public class Airplane {
      */
     public String toString(){
         return model+" | "+ID+" | "+airline;
-    }
+}
 
 }
